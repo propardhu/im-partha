@@ -1,79 +1,92 @@
-div{
-  padding-right: 5%;
+div {
+    padding-right: 5%;
 }
-p{
-  font-family: 'Shadows Into Light', cursive;
-  margin: 10px 10px 3px 0px;
-  font-size: 1.3em;
+
+p {
+    font-family: 'Alegreya Sans', sans-serif;
+    margin: 10px 10px 3px 0px;
+    font-size: 1.3em;
 }
-li,tr{font-family: 'Shadows Into Light', cursive;}
-.cla{
-  width: 100%;
-  height:300px;
-  padding: 100px;
-  background-color:#235952 ;
-  text-align: center;
-  }
-  .cal{
+
+li,
+tr {
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.cla {
+    width: 100%;
+    height: 300px;
+    padding: 100px;
+    background-color: #235952;
+    text-align: center;
+}
+
+.cal {
     color: #235952;
     padding-top: 1%;
     padding-bottom: 2%;
     padding-left: 10%;
     height: auto;
     background-color: #ffebd9;
-  }
-.A{
-  display: inline-block;
-  color: #ffebd9;
-  font-family: 'Pacifico', cursive;
-  font-size: 5em;
-}
-h2{
-  font-family: 'Permanent Marker', cursive;
-  text-align: left;
-
-}
-.tec{
-  width: 100%;
-  background-color: #235952;
-  display: inline-block;
-  color: #ffebd9;
-  padding-left:10%;
-  padding-top: 1%;
-  height: 200px;
-
-}
-.edu{
-  color: #235952;
-  width: 100%;
-  height: auto;
-  padding-left: 10%;
-  padding-bottom: 2%;
-  background-color:#ecfbfc;
-}
-.con{
-  height: 25px;
-  display: inline-block;
-  position: fixed;
-  color: #235952;
-  text-align: right;
-  right: 0px;
 }
 
-.cer{
-padding: 10%;
-  color: blue;
-  background-color:  #ffebd9;
+.A {
+    display: inline-block;
+    color: #ffebd9;
+    font-family: 'Pacifico', cursive;
+    font-size: 5em;
 }
-.ach,.pro{
-  background-color: #ffc8bd;
-  padding-left: 10%;
-  padding-bottom: 2%;
-  color: #235952;
+
+h2 {
+    font-family: 'Alegreya Sans', sans-serif;
+    text-align: left;
 }
-.per{
-  color: #ffc8bd;
-  background-color: #235952;
-  padding-left: 10%;
-  padding-bottom: 3%;
+
+.tec {
+    width: 100%;
+    background-color: #235952;
+    display: inline-block;
+    color: #ffebd9;
+    padding-left: 10%;
+    padding-top: 1%;
+    height: 200px;
+}
+
+.edu {
+    color: #235952;
+    width: 100%;
+    height: auto;
+    padding-left: 10%;
+    padding-bottom: 2%;
+    background-color: #ecfbfc;
+}
+
+.con {
+    height: 25px;
+    display: inline-block;
+    position: fixed;
+    color: #235952;
+    text-align: right;
+    right: 0px;
+}
+
+.cer {
+    padding: 10%;
+    color: blue;
+    background-color: #ffebd9;
+}
+
+.ach,
+.pro {
+    background-color: #ffc8bd;
+    padding-left: 10%;
+    padding-bottom: 2%;
+    color: #235952;
+}
+
+.per {
+    color: #ffc8bd;
+    background-color: #235952;
+    padding-left: 10%;
+    padding-bottom: 3%;
 }
